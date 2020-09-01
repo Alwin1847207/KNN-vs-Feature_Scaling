@@ -1,0 +1,1 @@
+Demonstrate the Impact of Feature scaling on accuracy in KNN algorithm for heart_disease dataset. Include at least one plot/graph to visualize the results. Provide conceptual interpretation of the results. Use heart disease dataset.
